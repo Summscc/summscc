@@ -4,4 +4,4 @@
 
 [اضغط هنا للانضمام إلى ديسكورد عشوائي](https://summscc.github.io)
 
-موقع المشروع: [https://summscc.github.io/](https://summscc.github.io/)
+
