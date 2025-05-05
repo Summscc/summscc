@@ -2,6 +2,6 @@
 
 ده مشروع بيحتوي على روابط ديسكورد عشوائية. تقدر تستخدم الموقع التالي للانضمام إلى ديسكورد عشوائي:
 
-[اضغط هنا للانضمام إلى ديسكورد عشوائي](https://summscc.github.io/random-discord.html/random-discord.html)
+[اضغط هنا للانضمام إلى ديسكورد عشوائي](https://summscc.github.io)
 
 موقع المشروع: [https://summscc.github.io/](https://summscc.github.io/)
