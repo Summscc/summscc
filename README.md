@@ -1,1 +1,7 @@
-[اضغط هنا للانضمام إلى ديسكورد عشوائي]([h](https://summscc.github.io/))
+# مشروع جيت هب
+
+ده مشروع بيحتوي على روابط ديسكورد عشوائية. تقدر تستخدم الموقع التالي للانضمام إلى ديسكورد عشوائي:
+
+[اضغط هنا للانضمام إلى ديسكورد عشوائي](https://summscc.github.io/random-discord.html/random-discord.html)
+
+موقع المشروع: [https://summscc.github.io/](https://summscc.github.io/)
